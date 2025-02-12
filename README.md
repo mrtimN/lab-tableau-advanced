@@ -1,3 +1,5 @@
+[Tableau Public](https://public.tableau.com/app/profile/tim.niewolinski/viz/tableau-lab_17392630554870/Dashboard2?publish=yes)
+
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
 # Lab | Advanced Tableau Visualization
